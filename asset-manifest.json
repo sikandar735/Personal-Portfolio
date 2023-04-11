@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/Personal-Portfolio/static/js/main.c6274d5c.js",
+    "static/js/787.fb771931.chunk.js": "/Personal-Portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/work1.png": "/Personal-Portfolio/static/media/work1.5d0e07f85c44d319e1cc.png",
+    "static/media/skill.jpeg": "/Personal-Portfolio/static/media/skill.f9a675c20374f0e1fdc3.jpeg",
+    "static/media/01.jpg": "/Personal-Portfolio/static/media/01.f934ae0d615b02479507.jpg",
+    "static/media/02-min.jpg": "/Personal-Portfolio/static/media/02-min.09c0e28c59ee3470e499.jpg",
+    "static/media/sakandar-ahayat-frontend-developer.pdf": "/Personal-Portfolio/static/media/sakandar-ahayat-frontend-developer.b83bc57f90d67df51562.pdf",
+    "static/media/05-min.jpg": "/Personal-Portfolio/static/media/05-min.53e554ac5da61b94fcb1.jpg",
+    "static/media/04-min.jpg": "/Personal-Portfolio/static/media/04-min.e4719f6e9fbc3d893054.jpg",
+    "static/media/02.jpg": "/Personal-Portfolio/static/media/02.085a8753f6164df0c49a.jpg",
+    "static/media/01-min.jpg": "/Personal-Portfolio/static/media/01-min.1e22e79ecb990cf4c7c7.jpg",
+    "static/media/03-min.jpg": "/Personal-Portfolio/static/media/03-min.12085c2c00d72785a911.jpg",
+    "static/media/08-min.jpg": "/Personal-Portfolio/static/media/08-min.900f06e3889c85ed8747.jpg",
+    "static/media/06-min.jpg": "/Personal-Portfolio/static/media/06-min.71589e8b04b1181a1f67.jpg",
+    "static/media/07-min.jpg": "/Personal-Portfolio/static/media/07-min.e2e478bbc2e4e4893c69.jpg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.073c9b0a.css.map": "/Personal-Portfolio/static/css/main.073c9b0a.css.map",
+    "main.c6274d5c.js.map": "/Personal-Portfolio/static/js/main.c6274d5c.js.map",
+    "787.fb771931.chunk.js.map": "/Personal-Portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c6274d5c.js"
+  ]
+}
